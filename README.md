@@ -1,0 +1,1 @@
+Este repositório é uma coleção de aplicativos desenvolvidos por mim, Lucas Correa.
